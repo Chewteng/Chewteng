@@ -4,3 +4,4 @@
 - 🌱 I’m from Johor.
 - 🔭 I’m currently studying a Bachelor of Information Technology (IT) in UUM.
 
+
